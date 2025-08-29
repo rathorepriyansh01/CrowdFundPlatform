@@ -115,6 +115,11 @@ await crowdFundPlatform.contribute(0, {
 // Finalize campaign after deadline
 await crowdFundPlatform.finalizeOrRefund(0);
 ```
+contract address: 0xE12228246F007fe3E5533B19CcC50441d69190e4
+
+image:![WhatsApp Image 2025-08-29 at 22 26 27_6d2e6769](https://github.com/user-attachments/assets/a4fcdef9-b912-405e-b3ab-0a7e5a8043ad)
+
+
 
 ---
 
